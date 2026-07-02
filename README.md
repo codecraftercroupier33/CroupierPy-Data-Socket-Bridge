@@ -1,9 +1,9 @@
 # CroupierPy: A Python Data Socket Bridge
 **Technologies:** Python, Sockets
 
-Croupier.apk (One-Check Mode) https://www.youtube.com/watch?v=REShrnKKy_s
+Croupier.apk (One-Check Mode) https://youtu.be/eWw9_xvAZhY
 
-Croupier.apk (Two-Check Mode) https://www.youtube.com/watch?v=32vL1JOkKmM
+Croupier.apk (Two-Check Mode) https://youtu.be/HTRPDQfqR78
 
 ### Overview
 
